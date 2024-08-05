@@ -3,7 +3,7 @@
 "fare": "Géolocalisez-vous et découvrez tous les évènements des Jeux de Paris 2024 près de chez vous ! Lieux de célébrations, évènements culturels, parcours du relais de la flamme : vivez votre propre expérience des Jeux de Paris 2024, avec ou sans billet, partout en France.",
 "cookiesTxt": "En cliquant sur « Accepter tous les cookies », vous acceptez le stockage de cookies sur votre appareil pour améliorer la navigation sur le site, analyser son utilisation et contribuer à nos efforts de marketing.",
 "titleth":"préparez vous pour les jeux",
-
+"txtBtn": "lire la suite",
 "title": "Foire aux Questions (FAQ)",
 "titleone": "Pourquoi Paris sport a-t-elle ouvert une plateforme participative ? ",
 "prgFAQ-1": "",
@@ -18,6 +18,13 @@
 "titleFAQ-6": "Comment participer à un jeux ? ",
 "prgFAQ-6": "",
 "titleFAQ-7": "Pourquoi je ne trouve pas sur ce site tous les sujets qui me préoccupent ou m'intéressent à propos de la Caf ? ",
-"prgFAQ-7": ""
+"prgFAQ-7": "",
+
+
+"txtGlobal":"Malgré ce problème d’image, les premiers Jeux Olympiques organisés en France représentent un événement important, puisque 997 athlètes, dont les 22 premières femmes de l’histoire, originaires de 24 pays, ont participé aux 95 épreuves organisées",
+"txtGlobalI": "Le caractère olympique des épreuves est si peu mis en valeur que de nombreux spectateurs et athlètes n’ont, pendant longtemps (et parfois jusqu’à leur mort) aucune idée du fait qu’ils ont assisté aux Jeux Olympiques.",
+"txtGlobalII": "les Jeux sont à nouveau organisés à Paris et dans les communes alentours, depuis 1900, la manifestation a pris de l’ampleur. Cette fois, les Jeux existent bien en leur nom propre, et suscitent un grand engouement dans la capitale. En 1924, 17 sports figurent au programme olympique pour 126 épreuves, au cours desquelles se sont affrontés 3089 athlètes, dont 135 femmes. L’ampleur grandissante de l’événement atteignait une portée mondiale, puisque 44 pays ont envoyé des athlètes aux Jeux, originaires des cinq continents."
+
+
 
 }

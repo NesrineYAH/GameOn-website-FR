@@ -29,6 +29,7 @@ h1 {
   opacity: 1;
   transform: translateY(100%);
   transition: opacity 0.5s ease, transform 0.5s ease;
+  display: none;
 }
 .cookie-consent.visible {
   opacity: 1;
